@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\bin\Release\net6.0\SistemaVenta.DAL.deps.json
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\bin\Release\net6.0\SistemaVenta.DAL.dll
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\bin\Release\net6.0\ref\SistemaVenta.DAL.dll
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\bin\Release\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\bin\Release\net6.0\SistemaVenta.Entity.dll
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\bin\Release\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.dll
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\obj\Release\net6.0\ref\SistemaVenta.DAL.dll
+C:\Users\Usuario\source\repos\TDS\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.pdb
